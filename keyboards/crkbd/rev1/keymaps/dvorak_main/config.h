@@ -31,6 +31,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define QUICK_TAP_TERM 0
 //#define TAPPING_TERM 100
 
+<<<<<<< HEAD:keyboards/crkbd/rev1/keymaps/dvorak_main/config.h
 #define NO_MUSIC_MODE // Disable audio settings and configuration
 
 #define TAPPING_TERM 150
+=======
+// Underglow
+/*
+#undef RGBLIGHT_LED_COUNT
+#define RGBLIGHT_LED_COUNT 14    // Number of LEDs
+#define RGBLIGHT_SLEEP
+*/
+>>>>>>> qmk/master:keyboards/lily58/keymaps/via/config.h
